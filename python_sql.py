@@ -9,7 +9,6 @@ from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationTool
 from tkinter import messagebox
 from datetime import datetime
 
-frog
 first_timestamp_value = datetime.now()
 last_timestamp_value = datetime.now()
 table_names = []
