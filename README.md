@@ -34,6 +34,9 @@ Once all the desired information has been obtained, you can safely exit the prog
 **If you wish to generate an executable from the python script, enter the following commands into the same directory that the script is held:**
 
 **Use pip to install the pyinstaller library like so:**
-**pip install pyinstaller **
+
+**pip install pyinstaller**
+
 **Generate the executable:**
+
 **pyinstaller -w -F python_sql.py**
