@@ -3,7 +3,7 @@ Visualization of PLC Tag Data in Python
 
 Introduction
 
-	This SQL Data Visualization tool is used to visualize data collected from the Beckhoff PLC into a SQL Server database. It can be run as an executable or a python script. Not a production application and should only be used to visualize and retrieve data. It is meant to be run on the computer collecting the PLC data. 
+This SQL Data Visualization tool is used to visualize data collected from the Beckhoff PLC into a SQL Server database. It can be run as an executable or a python script. Not a production application and should only be used to visualize and retrieve data. It is meant to be run on the computer collecting the PLC data. 
 
 How to use:
 	
