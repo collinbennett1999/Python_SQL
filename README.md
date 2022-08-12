@@ -23,6 +23,8 @@ Enter the server name. This can be found in MS SQL Server Management Studio, and
 
 
 A successful connection will lead to the visualization window.
+![alt text](https://github.com/collinbennett1999/Python_SQL/blob/main/image2.jpg)
+
 
 
 You will begin by selecting the desired table. The original data logging software would create a table for each 24 four hour cycle of data logging, naming the table after the respective day. This GUI allows you to select from the tables (days) in the database and this will generate the available PLC tags to choose from. These tags can be boolean, integer, unsigned integer, and real data types. Once the desired tag is selected, a time interval can be selected. The start and end times of the desired information are entered, and once plotted, will be displayed on the graph. The graph can be interacted with, and an image of the plot can be saved to the computer. To save the desired information to a .CSV, press the “Write to .CSV” button in the bottom right corner. This saves the datetime timestamp and respective PLC tag values along the desired interval to the .CSV file. This file is named using the date and PLC tag as the file name. 
