@@ -14,6 +14,8 @@ Running the executable is easier, but if you would like to make changes to the p
 
 The connection window will popup. It looks like this:
 
+![alt text](https://github.com/[collinbennett1999]/[Python_SQL]/blob/[branch]/image.jpg?raw=true)
+
 The database this program uses does not have username/password authentication, instead opting to use a trusted connection. Windows Authentication is used, which requires a server and database name. 
 
 Enter the server name. This can be found in MS SQL Server Management Studio, and will follow the naming pattern, “PC_NAME\SQLEXPRESS”. This is the PC name followed by SQLEXPRESS. The database name is the name of the target database you are connecting to. For example, this could be “Beckhoff_PLC”. Be aware that these are case sensitive and if any credentials are entered incorrectly, the connection will fail. 
