@@ -31,6 +31,9 @@ You will begin by selecting the desired table. The original data logging softwar
 
 Once all the desired information has been obtained, you can safely exit the program. The connection is closed and the .CSV remains. 
 
-**If you wish to generate an executable from the python script, enter the following command into the same directory that the script is held:**
+**If you wish to generate an executable from the python script, enter the following commands into the same directory that the script is held:**
 
+**Use pip to install the pyinstaller library like so:**
+**pip install pyinstaller **
+**Generate the executable:**
 **pyinstaller -w -F python_sql.py**
