@@ -13,8 +13,7 @@ executing the Python script
 Running the executable is easier, but if you would like to make changes to the program without having to regenerate an executable, executing the script is more efficient. 
 
 The connection window will popup. It looks like this:
-
-![alt text](https://github.com/[collinbennett1999]/[Python_SQL]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/collinbennett1999/Python_SQL/blob/main/image.jpg)
 
 The database this program uses does not have username/password authentication, instead opting to use a trusted connection. Windows Authentication is used, which requires a server and database name. 
 
